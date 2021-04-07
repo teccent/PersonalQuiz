@@ -19,6 +19,7 @@ class ResultsViewController: UIViewController {
     
     var answersChoosen: [Answer]!
     
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
